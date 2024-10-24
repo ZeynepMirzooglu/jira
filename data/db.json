@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "title": "Backend İşlemlerinin Yapılması",
+      "details": "Backend işlemlerinin .net core ile yapılması işlemlerini gerçekleştirmek için açılan maddedir.",
+      "complete": false,
+      "id": 1
+    },
+    {
+      "title": "Frontend İşlemleri",
+      "details": "Frontend işlemlerinin vue js ile yapılması işlemlerini gerçekleştirmek için açılan madde",
+      "complete": true,
+      "id": 2
+    },
+    {
+      "title": "Devops",
+      "details": "Frontend işlemlerinin vue js ile yapılması işlemlerini gerçekleştirmek için açılan madde",
+      "complete": false,
+      "id": 3
+    },
+    {
+      "title": "Jenkins",
+      "details": "Jenkins ile prod geçişleri ve deploy işlemleri yapılabilir",
+      "complete": true,
+      "id": 51605
+    }
+  ]
+}
